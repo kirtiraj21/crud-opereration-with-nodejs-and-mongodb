@@ -1,5 +1,5 @@
 export const Alert = {
-    "email_exist": "Email Already Exist",
+    "email_exist": "Email Already Exist!!",
     "insert_success": "Data Inserted Successfully",
     "get_data": "Data Get Successfully",
     "update_success": "Data Updated Successfully",
